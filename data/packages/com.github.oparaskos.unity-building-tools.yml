@@ -1,0 +1,22 @@
+name: com.github.oparaskos.unity-building-tools
+displayName: Simple Building Rules
+description: Tools for generating buildings in unity
+repoUrl: 'https://github.com/oparaskos/unity-building-tools'
+parentRepoUrl: null
+licenseSpdxId: Apache-2.0
+licenseName: Apache License 2.0
+topics:
+  - editor-enhancement
+  - level-design
+  - modeling
+  - procedural-generation
+hunter: oparaskos
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: null
+readme: 'main:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1611494407577
